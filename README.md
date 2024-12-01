@@ -36,3 +36,12 @@ Connect the system to a PC via a serial interface.
 Input the desired message through the PC application.
 View the message displayed on the LCD in real time.
 </p>
+<br>
+<footer>
+  Copyright © 2024 Anjali Singh
+
+Permission is hereby granted, free of charge, to use, modify, and distribute copies of this code, under the following conditions:
+1. Attribution: You must give appropriate credit to the original author (Anjali Singh), provide a link to the original project, and indicate if changes were made.
+2. Non-Commercial Use: You may not use this code for commercial purposes.
+
+</footer>
