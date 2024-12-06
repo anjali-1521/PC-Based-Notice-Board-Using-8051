@@ -14,9 +14,9 @@ Handles special characters and scrolling for long messages.
 Implements serial communication using the MAX232 IC.
 Utilizes 8051 assembly language for precise hardware control.
 
-<h4>Components:</h4>
+<h3>Components:</h3>
 
-<b></b>Hardware:</b>
+<b>Hardware:</b>
 
 AT89S52 (8051 family) microcontroller.
 16x2 LCD display.
